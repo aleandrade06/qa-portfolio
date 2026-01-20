@@ -1,0 +1,20 @@
+# Ferramentas e Conceitos de QA
+
+## Análise Estática de Código
+- Java: FindBugs
+- Python: Pylint
+- C++: Clang Static Analyzer
+
+Utilizadas para identificar problemas no código sem a necessidade de execução.
+
+## Gerenciamento de Testes
+- TestRail  
+Ferramenta utilizada para organização e gerenciamento de casos de teste.
+
+## Testes de Performance
+- Apache JMeter  
+Ferramenta de código aberto utilizada para testes de performance e carga.
+
+## Segurança da Informação
+- Conhecimento conceitual sobre incidentes de segurança e impacto no negócio,
+como o caso de vazamento de dados da British Airways.
