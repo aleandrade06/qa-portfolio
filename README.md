@@ -19,3 +19,5 @@ reporte de bugs e apoio à melhoria contínua do produto.
 ## Observação
 Os materiais apresentados foram desenvolvidos em ambiente de aprendizado,
 com foco em boas práticas e evolução profissional contínua.
+
+Os documentos deste repositório estão disponíveis para `download`, pois grande parte do material (planos de teste, relatórios e evidências) está em formatos como `.docx` e `.xlsx`, que não possuem visualização direta no GitHub. Para melhor compreensão do conteúdo, recomenda-se baixar os arquivos e visualizá-los localmente.
