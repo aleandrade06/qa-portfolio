@@ -1,23 +1,56 @@
-# Portfólio de QA – Alexandre Andrade
+# Alexandre Andrade | Portfólio de Quality Assurance
 
-## Sobre mim
-Sou profissional de TI com experiência em Suporte e em transição para a área de Quality Assurance (QA).
-Tenho foco em qualidade de software, experiência do usuário e documentação clara de testes e bugs.
+Profissional de Tecnologia da Informação com experiência consolidada em suporte técnico e direcionamento de carreira para Quality Assurance. Minha atuação em suporte fortaleceu competências diretamente aplicáveis a QA: investigação de falhas, reprodução de problemas, comunicação clara, documentação e foco na experiência do usuário.
 
-Este portfólio reúne atividades acadêmicas e práticas, simulando cenários reais de mercado.
+[LinkedIn](https://www.linkedin.com/in/alexandreandradeti/)
 
-## Objetivo
-Atuar como Analista de QA Júnior, contribuindo com testes manuais, criação de cenários de teste,
-reporte de bugs e apoio à melhoria contínua do produto.
+## Objetivo profissional
 
-## Conteúdo do Portfólio
-- Planos de Teste
-- Cenários e Casos de Teste
-- Bug Reports
-- Massa de Dados para Testes
+Atuar em Quality Assurance, testes de software ou funções que integrem QA e suporte técnico, contribuindo com análise de requisitos, prevenção de falhas, execução de testes e comunicação eficiente entre usuários e equipes técnicas.
 
-## Observação
-Os materiais apresentados foram desenvolvidos em ambiente de aprendizado,
-com foco em boas práticas e evolução profissional contínua.
+## Projetos em destaque
 
-Os documentos deste repositório estão disponíveis para `download`, pois grande parte do material (planos de teste, relatórios e evidências) está em formatos como `.docx` e `.xlsx`, que não possuem visualização direta no GitHub. Para melhor compreensão do conteúdo, recomenda-se baixar os arquivos e visualizá-los localmente.
+| Projeto | O que foi trabalhado | Competências demonstradas |
+|---|---|---|
+| [Login multiperfil e compatibilidade](./01-login-multiperfil.md) | Fluxos de autenticação para alunos e funcionários em diferentes navegadores e dispositivos | Planejamento, priorização P1/P2, BDD, compatibilidade e visão de usuário |
+| [Testes web multiplataforma](./02-testes-web-multiplataforma.md) | Plano de testes funcional, de usabilidade e compatibilidade para uma aplicação web | Estratégia de testes, execução multiplataforma e documentação de defeitos |
+| [Testes de sistema e regressão](./03-testes-sistema-regressao.md) | Validação de formulário, regras de negócio e cenários negativos | Casos de teste, regressão, análise de limites e reporte de bugs |
+| [Massa de testes para cadastro PF e PJ](./04-massa-testes-pf-pj.md) | Preparação e execução de dados para dois tipos de cadastro | Massa de testes, rastreabilidade, resultado esperado e evidências |
+
+## Competências demonstradas
+
+- Planejamento e estratégia de testes
+- Criação de cenários e casos de teste
+- Escrita de cenários em BDD com Given, When e Then
+- Testes funcionais, negativos, de regressão, usabilidade e compatibilidade
+- Priorização de cenários por risco
+- Elaboração de bug reports reproduzíveis
+- Preparação de massa de testes
+- Validação em navegadores e dispositivos
+- Comunicação entre usuário, suporte e equipe técnica
+- Documentação clara e rastreável
+
+## Minha abordagem de QA
+
+1. Compreender o requisito e a necessidade do usuário.
+2. Identificar riscos, regras de negócio e pontos críticos.
+3. Planejar cenários positivos, negativos e de limite.
+4. Preparar ambiente, dados e pré-condições.
+5. Executar, registrar evidências e reportar desvios.
+6. Retestar correções e avaliar a necessidade de regressão.
+
+## Materiais do repositório
+
+- [Planos de teste](./01-test-plans/)
+- [Mapeamentos e requisitos](./02-requirements/)
+- [Casos de teste manuais](./03-manual-tests/)
+- [Bug reports](./04-bug-reports/)
+- [Massa de testes](./05-test-data/)
+- [Conceitos e materiais complementares](./06-extras/)
+
+## Transparência
+
+Os estudos de caso deste portfólio foram desenvolvidos em contexto acadêmico durante minha formação em QA. Eles demonstram meu raciocínio, organização e domínio dos fundamentos de testes de software; não são apresentados como projetos profissionais ou resultados de clientes.
+
+Os exemplos foram descritos com dados genéricos. Informações pessoais, credenciais e dados potencialmente sensíveis não fazem parte desta apresentação pública.
+
