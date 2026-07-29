@@ -44,10 +44,9 @@ Garantir que os dois tipos de usuário possam concluir o cadastro com os campos,
 - Verificação da confirmação e do redirecionamento
 - Documentação rastreável entre massa, ação e resultado
 
-## Evidências do repositório
+## Evidência apresentada
 
-- [Casos de teste manuais](./03-manual-tests/)
-- [Massa de testes](./05-test-data/)
+Este estudo de caso apresenta a estratégia de massa, a separação entre os perfis, as pré-condições, as ações e os resultados esperados sem publicar dados pessoais.
 
 ## Competências demonstradas
 
@@ -62,4 +61,3 @@ Garantir que os dois tipos de usuário possam concluir o cadastro com os campos,
 Projeto acadêmico desenvolvido durante a formação em Quality Assurance.
 
 [Voltar ao portfólio](./README.md)
-

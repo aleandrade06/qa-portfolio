@@ -39,18 +39,8 @@ Atuar em Quality Assurance, testes de software ou funções que integrem QA e su
 5. Executar, registrar evidências e reportar desvios.
 6. Retestar correções e avaliar a necessidade de regressão.
 
-## Materiais do repositório
-
-- [Planos de teste](./01-test-plans/)
-- [Mapeamentos e requisitos](./02-requirements/)
-- [Casos de teste manuais](./03-manual-tests/)
-- [Bug reports](./04-bug-reports/)
-- [Massa de testes](./05-test-data/)
-- [Conceitos e materiais complementares](./06-extras/)
-
 ## Transparência
 
 Os estudos de caso deste portfólio foram desenvolvidos em contexto acadêmico durante minha formação em QA. Eles demonstram meu raciocínio, organização e domínio dos fundamentos de testes de software; não são apresentados como projetos profissionais ou resultados de clientes.
 
-Os exemplos foram descritos com dados genéricos. Informações pessoais, credenciais e dados potencialmente sensíveis não fazem parte desta apresentação pública.
-
+Os exemplos foram descritos com dados genéricos. Informações pessoais, credenciais e dados potencialmente sensíveis não fazem parte desta apresentação pública. Os documentos acadêmicos originais estão preservados em arquivo privado; este repositório contém somente versões revisadas e adequadas para visualização pública.

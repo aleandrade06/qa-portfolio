@@ -47,11 +47,9 @@ Cenário: Impedir o envio sem dados obrigatórios
   E informar quais campos precisam ser preenchidos
 ```
 
-## Evidências do repositório
+## Evidência apresentada
 
-- [Mapeamentos e requisitos](./02-requirements/)
-- [Casos de teste manuais](./03-manual-tests/)
-- [Bug reports](./04-bug-reports/)
+Este estudo de caso consolida o mapeamento de requisitos, os casos críticos, a cobertura negativa, a abordagem de regressão e um exemplo de modelagem BDD.
 
 ## Competências demonstradas
 
@@ -67,4 +65,3 @@ Cenário: Impedir o envio sem dados obrigatórios
 Projeto acadêmico desenvolvido durante a formação em Quality Assurance.
 
 [Voltar ao portfólio](./README.md)
-

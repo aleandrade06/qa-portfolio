@@ -47,9 +47,9 @@ A combinação de três cenários com três ambientes produziu nove execuções 
 - Campo de telefone aceitando formato inválido
 - Diferenças de comportamento entre desktop e dispositivo móvel
 
-## Evidências do repositório
+## Evidência apresentada
 
-Os documentos acadêmicos originais de planejamento estão disponíveis em [Planos de teste](./01-test-plans/).
+Este estudo de caso consolida, em formato público e navegável, o plano de testes acadêmico, os ambientes avaliados, os riscos cobertos e a estrutura adotada para documentar defeitos.
 
 ## Competências demonstradas
 
@@ -64,4 +64,3 @@ Os documentos acadêmicos originais de planejamento estão disponíveis em [Plan
 Projeto acadêmico desenvolvido durante a formação em Quality Assurance.
 
 [Voltar ao portfólio](./README.md)
-
